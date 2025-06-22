@@ -1,12 +1,40 @@
-# React + Vite
+<div align="center">
+  <img src="./images/hello.jpg" alt="Hello" width="300"/>
+  <h1>Hi, I'm Vani Walvekar</h1>
+  <p><strong>Software Engineer | Always Exploring New Tech Trends</strong></p>
+  <p><em>Coding through life, one bug at a time 🚀</em></p>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🌐 Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Visit My Portfolio](https://vani-walvekar1494.github.io/vani-walvekar/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 About the Project
+
+This is my **personal developer portfolio** — built to showcase who I am, what I do, and the projects I've worked on.
+
+### ✨ Features
+
+- 💻 Interactive 3D section powered by `@react-three/fiber`
+- 🎨 Clean, responsive UI using Tailwind CSS
+- 🧠 Sections on education, projects, skills, and more
+- 🌱 Built with simplicity, elegance, and tech-forward design
+
+---
+
+## 🔧 Tech Stack
+
+- **React.js**
+- **Three.js** (`@react-three/fiber`, `@react-three/drei`)
+- **Tailwind CSS**
+- **Vite**
+- **Figma**
+
+---
+
+## 📁 Folder Structure
+
