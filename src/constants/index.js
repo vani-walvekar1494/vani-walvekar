@@ -1,18 +1,20 @@
 const navLinks = [
     {
-        name: "Work",
-        link: "#work",
-    },
-    {
         name: "Experience",
         link: "#experience",
     },
+
+    {
+        name: "Projects",
+        link: "#work",
+    },
+
     {
         name: "Skills",
         link: "#skills",
     },
     {
-        name: "Testimonials",
+        name: "Education",
         link: "#testimonials",
     },
 ];
@@ -29,10 +31,11 @@ const words = [
 ];
 
 const counterItems = [
-    { value: 15, suffix: "+", label: "Years of Experience" },
-    { value: 200, suffix: "+", label: "Satisfied Clients" },
-    { value: 108, suffix: "+", label: "Completed Projects" },
-    { value: 90, suffix: "%", label: "Client Retention Rate" },
+    { value: 5, suffix: "+", label: "Years in Software Industry" },
+    { value: 8, suffix: "+", label: "Technical Projects Delivered" },
+    { value: 4, suffix: "", label: "Organizations Contributed To" },
+    { value: 3, suffix: "", label: "Research Presentations & Publications" },
+
 ];
 
 const logoIconsList = [
