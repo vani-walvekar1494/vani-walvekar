@@ -38,3 +38,27 @@ This is my **personal developer portfolio** — built to showcase who I am, what
 
 ## 📁 Folder Structure
 
+📦src
+┣ 📂components
+┃ ┣ 📜Button.jsx
+┃ ┗ 📂HeroModels
+┃ ┗ 📜HeroExperience.jsx
+┣ 📂constants
+┃ ┗ 📜index.js
+┣ 📜App.jsx
+┗ 📜main.jsx
+
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/vani-walvekar1494/vani-walvekar.git
+cd vani-walvekar
+npm install
+npm run dev
+
+
+
+Designed with 💙 by Vani Walvekar
