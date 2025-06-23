@@ -54,43 +54,28 @@ const logoIconsList = [
     {
         imgPath: "/images/logos/company-logo-5.png",
     },
-    {
-        imgPath: "/images/logos/company-logo-6.png",
-    },
-    {
-        imgPath: "/images/logos/company-logo-7.png",
-    },
-    {
-        imgPath: "/images/logos/company-logo-8.png",
-    },
-    {
-        imgPath: "/images/logos/company-logo-9.png",
-    },
-    {
-        imgPath: "/images/logos/company-logo-10.png",
-    },
-    {
-        imgPath: "/images/logos/company-logo-11.png",
-    },
+
+
 ];
 
 const abilities = [
     {
-        imgPath: "/images/seo.png",
-        title: "Quality Focus",
-        desc: "Delivering high-quality results while maintaining attention to every detail.",
+        imgPath: "/images/code.webp",
+        title: "Clean & Efficient Code",
+        desc: "Writing maintainable, scalable code with best practices and thoughtful structure.",
     },
     {
         imgPath: "/images/chat.png",
-        title: "Reliable Communication",
-        desc: "Keeping you updated at every step to ensure transparency and clarity.",
+        title: "Collaborative & Communicative",
+        desc: "Working seamlessly with teams and always open to constructive feedback and ideas.",
     },
     {
         imgPath: "/images/time.png",
-        title: "On-Time Delivery",
-        desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+        title: "Timely Execution",
+        desc: "Meeting deadlines with reliable and well-tested solutions, even under pressure.",
     },
 ];
+
 
 const techStackImgs = [
     {
@@ -150,42 +135,50 @@ const techStackIcons = [
 
 const expCards = [
     {
-        review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
         imgPath: "/images/exp1.png",
         logoPath: "/images/logo1.png",
-        title: "Frontend Developer",
-        date: "January 2023 - Present",
+        title: "Software Development Intern",
+        date: "May 2025 – Present",
         responsibilities: [
-            "Developed and maintained user-facing features for the Hostinger website.",
-            "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-            "Optimized web applications for maximum speed and scalability.",
+            "Engineered personalized dashboard components using React, enhancing user engagement through dynamic quick links and tailored notifications.",
+            "Integrated Tapis APIs to fetch and display user-specific research data in real-time, increasing dashboard utility.",
+            "Leveraged AI-driven analytics to monitor user behavior, enabling intelligent content recommendations and optimized user experiences.",
         ],
     },
     {
-        review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
         imgPath: "/images/exp2.png",
         logoPath: "/images/logo2.png",
-        title: "Full Stack Developer",
-        date: "June 2020 - December 2023",
+        title: "Graduate Teaching Assistant",
+        date: "June 2024 – Present",
         responsibilities: [
-            "Led the development of Docker's web applications, focusing on scalability.",
-            "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-            "Contributed to open-source projects that were used with the Docker ecosystem.",
+            "Facilitated student success in full-stack development by mentoring Agile workflows, managing sprints, and guiding feature releases.",
+            "Conducted workshops on Git, Docker, CI/CD, and Agile methodologies, empowering students to manage real-world project lifecycles.",
         ],
     },
     {
-        review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
         imgPath: "/images/exp3.png",
         logoPath: "/images/logo3.png",
-        title: "React Native Developer",
-        date: "March 2019 - May 2020",
+        title: "Associate Engineer",
+        date: "May 2019 – October 2022",
         responsibilities: [
-            "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-            "Improved app performance and user experience through code optimization and testing.",
-            "Coordinated with the product team to implement features based on feedback.",
+            "Integrated AWS with over 200 IBMi systems for SYSCO, enabling scalable hybrid cloud deployments and accelerating cloud migration.",
+            "Automated server health checks and backup processes using Python and Git, reducing manual effort by 30%.",
+            "Optimized AS400 SQL queries to enhance data access performance and drove system upgrades to meet compliance and reliability standards.",
+        ],
+    },
+    {
+        imgPath: "/images/exp4.jpg", // reused image
+        logoPath: "/images/logo4.jpg", // reused logo
+        title: "Associate Software Engineer",
+        date: "December 2018 – April 2019",
+        responsibilities: [
+            "Built and maintained web applications using JavaScript, ASP.NET, and Python (Flask/Django), improving overall platform functionality.",
+            "Developed responsive user interfaces across devices using modern front-end frameworks.",
+            "Collaborated in agile teams to debug, test, and deploy features, enhancing product reliability and user satisfaction.",
         ],
     },
 ];
+
 
 const expLogos = [
     {
