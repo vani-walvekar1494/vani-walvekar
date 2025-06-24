@@ -14,7 +14,7 @@ const TechStack = () => {
                             <div className="tech-card-animated-bg bg-gradient-to-t from-blue-600 to-purple-600"/>
                             <div className="tech-card-content relative z-10">
                                 <div className="tech-icon-wrapper">
-                                    <TechIcon model={{...icon, scale: icon.scale?.map(s => s * 0.6) || [0.6, 0.6, 0.6]}}/>
+                                    <TechIcon model={icon} scale={0.4}/>
                                 </div>
                                 <p>{icon.name}</p>
                             </div>
