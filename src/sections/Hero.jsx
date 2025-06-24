@@ -52,12 +52,13 @@ gsap.fromTo('.hero-text h1',
                             <h1>Impact</h1>
                         </div>
                         <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-                            Hi, I’m Vani — I write code, grow ideas, and keep it simple.
+                        Every breakthrough application starts with a vision and the right environment. 
+                        <p>This is where I turn concepts into digital reality!</p>
                         </p>
                         <Button
                         className="md:w-80 md:h-16 w-60 h-12"
                         id="button"
-                        text=" SEE MY WORK "
+                        text=" Explore My Creations "
                         />
                     </div>
                 </header>

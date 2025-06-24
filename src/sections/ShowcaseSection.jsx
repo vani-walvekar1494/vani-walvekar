@@ -59,7 +59,7 @@ gsap.registerPlugin(ScrollTrigger);
                     <div className="showcaselayout">
                         <div ref={project1Ref} className="first-project-wrapper">
                             <div className="image-wrapper">
-                                <img src="/images/project1.png" alt="Homelessness Prevention"/>
+                                <img src="/images/project1.jpg" alt="Homelessness Prevention"/>
                             </div>
                             <div className="text-content">
                                 <h2>HOMELESSNESS_PREVENTION</h2>

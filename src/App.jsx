@@ -11,10 +11,10 @@ const App = () => {
         <>
        <NavBar />
         <Hero/>
-            <ShowcaseSection />
-            <LogoSection />
-            <FeatureCards />
             <ExperienceSection />
+            <ShowcaseSection />
+            <LogoSection />            
+            <FeatureCards />            
             <TechStack />
         </>
     )
